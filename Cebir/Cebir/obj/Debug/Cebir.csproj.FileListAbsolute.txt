@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Cebir\Cebir\bin\Debug\Cebir.exe.config
+C:\Users\user\source\repos\Cebir\Cebir\bin\Debug\Cebir.exe
+C:\Users\user\source\repos\Cebir\Cebir\bin\Debug\Cebir.pdb
+C:\Users\user\source\repos\Cebir\Cebir\obj\Debug\Cebir.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Cebir\Cebir\obj\Debug\Cebir.Form1.resources
+C:\Users\user\source\repos\Cebir\Cebir\obj\Debug\Cebir.Properties.Resources.resources
+C:\Users\user\source\repos\Cebir\Cebir\obj\Debug\Cebir.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Cebir\Cebir\obj\Debug\Cebir.exe
+C:\Users\user\source\repos\Cebir\Cebir\obj\Debug\Cebir.pdb
